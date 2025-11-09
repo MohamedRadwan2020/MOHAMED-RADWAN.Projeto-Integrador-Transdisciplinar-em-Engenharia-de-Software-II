@@ -1,45 +1,45 @@
 # MOHAMED-RADWAN.Projeto-Integrador-Transdisciplinar-em-Engenharia-de-Software-II
 
-Projeto para a disciplina PIT I utilizando **Java** no front-end e back-end.
+Projeto desenvolvido para a disciplina Projeto Integrador Transdisciplinar em Engenharia de Software II.
 
-## Estrutura
-- **backend/** – Código fonte Java para o servidor (Spring Boot, Jakarta EE, etc)
-- **frontend/** – Código fonte Java para a interface (JavaFX, Vaadin ou Android)
-- **docs/** – Requisitos, diagramas, fluxogramas, documentação técnica
-- **manual/** – Manual de uso e instruções para rodar o projeto
-- **assets/** – Imagens, vídeo demo e outros recursos
+## Estrutura do Projeto
 
-## Instalação e execução
+- `/backend` — Código fonte Java do backend (ex: Spring Boot)
+- `/frontend` — Código fonte Java do frontend (ex: JavaFX, Vaadin ou Android)
+- `/docs` — Documentação: requisitos, diagramas, fluxogramas, roteiro de vídeo
+- `/manual` — Manual de uso, instalação, execução
+- `/assets` — Imagens, capturas de tela, vídeo demonstrativo (.mp4 ou link)
 
-*Exemplo para backend (Spring Boot):*
+## Instalação e Execução
+
+### Backend
 ```bash
 cd backend
 ./gradlew bootRun
 ```
+*(Adapte conforme tecnologia)*
 
-*Exemplo para frontend (JavaFX):*
+### Frontend
 ```bash
 cd frontend
 ./gradlew run
 ```
+*(Para JavaFX; adapte se usar Android ou Vaadin)*
 
-*Para Android:*
-Abra o projeto na pasta `frontend` utilizando o Android Studio.
+## Manual de Uso
 
-## Manual de uso
+Consulte o arquivo `/manual/manual.md` para instruções detalhadas.
 
-Veja `manual/manual.md` para o guia do usuário.
+## Documentação Técnica
 
-## Demonstração em vídeo
+Toda documentação, requisitos, diagramas e roteiro estão em `/docs`.
 
-Vídeo tutorial demonstrando o projeto (narrado por mim, com mínimo de 5 minutos):
+## Vídeo de Demonstração
 
-[Link para o vídeo demonstrativo](COLE_AQUI_O_LINK_DO_VIDEO)
+Assista ao vídeo tutorial que demonstra o funcionamento e principais funcionalidades (narrado por Mohamed Radwan):
 
-## Documentação técnica
-
-- Diagramas de caso de uso e fluxogramas atualizados estão em `docs/`
-- Requisitos funcionais e não funcionais revisados com base nos feedbacks
+[Link para o vídeo demonstrativo](COLOQUE_O_LINK_AQUI)
 
 ---
-*Todos os artefatos relevantes estão neste repositório. Dúvidas? Consulte o manual ou a documentação técnica.*
+
+Mantenha o repositório atualizado com todos os artefatos solicitados pelo(a) professor(a)-tutor(a).
