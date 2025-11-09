@@ -42,4 +42,4 @@ Assista ao vídeo tutorial que demonstra o funcionamento e principais funcionali
 
 ---
 
-Mantenha o repositório atualizado com todos os artefatos solicitados pelo(a) professor(a)-tutor(a).
+
